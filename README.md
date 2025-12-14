@@ -90,8 +90,8 @@ python main.py
 ---
 
 ## 📸 操作介面及統計圓餅圖
-![App Screenshot](path/to/image.png)
-"C:\Users\renee\Pictures\Screenshots\螢幕擷取畫面 2025-12-14 104925.png"
+![App Screenshot](操作介面及圓餅圖範例.png)
+
 
 
 
